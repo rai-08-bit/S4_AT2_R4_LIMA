@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Advent+Pro:ital,wght@0,100..900;1,100..900&family=Space+Grotesk:wght@300..700&display=swap');
+body{
+    background-color: rgb(225, 229, 244);
+}
+#list h4{
+    font-family: Space Grotesk;
+    color: rgb(84, 109, 155);
+    text-decoration:underline;
+}
+#list ul li{
+    font-family:"Advent Pro";
+    background-color: #7290ab9e;
+    color: rgb(2, 57, 159);
+    margin: 10px 0;
+    padding: 5px;
+    border: 2px rgb(225, 229, 244);
+}
+#list li:hover{
+    color: rgb(225, 229, 244);
+}
+#table h4{
+    font-family: Space Grotesk;
+    color: rgb(84, 109, 155);
+    text-decoration: underline;
+}
+#table ol{
+    font-family:"Advent Pro";
+    color: rgb(2, 57, 159)
+}
+#table tr{
+    font-family:"Advent Pro";
+    color:rgb(84, 109, 155);
+    text-align: center;
+}
+#table th:hover{
+    background-color: #7290ab9e;
+}
+#table td:hover{
+    background-color: #7290ab9e;
+}
